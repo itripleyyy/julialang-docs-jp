@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://docs.julialang.org/sitemap.xml
